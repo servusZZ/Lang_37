@@ -1,3 +1,5 @@
 fault-ID,component
 Lang-37-57,org.apache.commons.lang3.LocaleUtils#250,      ???
 Lang-37-37,org.apache.commons.lang3.ArrayUtils#2955,      ???
+Lang-37-47,org.apache.commons.lang3.text.StrBuilder#1314,      ???
+Lang-37-47,org.apache.commons.lang3.text.StrBuilder#1270,      ???

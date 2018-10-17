@@ -11,3 +11,5 @@ Lang-37-57,org.apache.commons.lang.LocaleUtilsTest#testToLocale_3Part
 Lang-37-57,org.apache.commons.lang.LocaleUtilsTest#testLocaleLookupList_Locale
 Lang-37-57,org.apache.commons.lang.LocaleUtilsTest#testConstructor
 Lang-37-37,org.apache.commons.lang3.ArrayUtilsAddTest#testJira567
+Lang-37-47,org.apache.commons.lang.text.StrBuilderTest#testLang412Left
+Lang-37-47,org.apache.commons.lang.text.StrBuilderTest#testLang412Right
