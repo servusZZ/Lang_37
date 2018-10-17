@@ -247,7 +247,7 @@ public class LocaleUtils {
      * @return true if the locale is a known locale
      */
     public static boolean isAvailableLocale(Locale locale) {
-        return availableLocaleList().contains(locale);
+        return cAvailableLocaleSet.contains(locale);
     }
 
     //-----------------------------------------------------------------------
