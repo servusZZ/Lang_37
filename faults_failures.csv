@@ -1,0 +1,12 @@
+fault-ID,failure
+Lang-37-57,org.apache.commons.lang.LocaleUtilsTest#testAvailableLocaleSet
+Lang-37-57,org.apache.commons.lang.LocaleUtilsTest#testIsAvailableLocale
+Lang-37-57,org.apache.commons.lang.LocaleUtilsTest#testAvailableLocaleList
+Lang-37-57,org.apache.commons.lang.LocaleUtilsTest#testCountriesByLanguage
+Lang-37-57,org.apache.commons.lang.LocaleUtilsTest#testLocaleLookupList_LocaleLocale
+Lang-37-57,org.apache.commons.lang.LocaleUtilsTest#testLanguagesByCountry
+Lang-37-57,org.apache.commons.lang.LocaleUtilsTest#testToLocale_1Part
+Lang-37-57,org.apache.commons.lang.LocaleUtilsTest#testToLocale_2Part
+Lang-37-57,org.apache.commons.lang.LocaleUtilsTest#testToLocale_3Part
+Lang-37-57,org.apache.commons.lang.LocaleUtilsTest#testLocaleLookupList_Locale
+Lang-37-57,org.apache.commons.lang.LocaleUtilsTest#testConstructor
