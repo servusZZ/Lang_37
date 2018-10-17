@@ -1269,9 +1269,6 @@ public class StrBuilder implements CharSequence, Appendable {
         if (width > 0) {
             ensureCapacity(size + width);
             String str = (obj == null ? getNullText() : obj.toString());
-            if (str == null) {
-                str = "";
-            }
             int strLen = str.length();
             if (strLen >= width) {
                 str.getChars(strLen - width, strLen, buffer, size);
@@ -1316,9 +1313,6 @@ public class StrBuilder implements CharSequence, Appendable {
         if (width > 0) {
             ensureCapacity(size + width);
             String str = (obj == null ? getNullText() : obj.toString());
-            if (str == null) {
-                str = "";
-            }
             int strLen = str.length();
             if (strLen >= width) {
                 str.getChars(0, width, buffer, size);
